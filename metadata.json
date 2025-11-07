@@ -1,0 +1,5 @@
+{
+  "name": "AI for Recruting employees by ranking and shorting it",
+  "description": "An AI-powered application to rank employees based on their resumes and distribute daily tasks efficiently according to their skills and rank.",
+  "requestFramePermissions": []
+}
